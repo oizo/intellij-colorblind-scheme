@@ -7,8 +7,11 @@ So I've spent some time creating my own. It's setup with mostly Java/Android in 
 It's doesn't nescessarily look nice to you, but I like it :-)
 
 # Examples
-* ![Editor](ColorBlind-screenshot-editor.png)
-* ![LogCat](ColorBlind-screenshot-logcat.png)
+### Editor
+![Editor](ColorBlind-screenshot-editor.png)
+
+### LogCat output
+![LogCat](ColorBlind-screenshot-logcat.png)
 
 # Installation
 Either import `ColorBlind.jar` via `File->Import Settings` or copy `ColorBlind.icls` to `~/Library/Preferences/{IdeaIC12, IntelliJIdea12, appCode20, AndroidStudio}/colors`

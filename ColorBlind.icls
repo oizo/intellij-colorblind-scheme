@@ -197,6 +197,7 @@
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="c0c0ff" />
+        <option name="BACKGROUND" value="b0c0b" />
       </value>
     </option>
     <option name="DEFAULT_LABEL">

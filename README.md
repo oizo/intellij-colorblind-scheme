@@ -8,10 +8,22 @@ It's doesn't nescessarily look nice to you, but I like it :-)
 
 # Examples
 ### Editor
-![Editor](ColorBlind-screenshot-editor.png)
+![Java](colorblind-screenshot-java.png)
 
 ### LogCat output
-![LogCat](ColorBlind-screenshot-logcat.png)
+![LogCat](colorblind-screenshot-logcat.png)
+
+### Groovy
+![Groovy](colorblind-screenshot-groovy.png)
+
+### Language Defaults
+![LangDefaults](colorblind-screenshot-lang-defaults.png)
+
+### General
+![General](colorblind-screenshot-general.png)
+
+### Console
+![Console](colorblind-screenshot-console.png)
 
 # Installation
 Either import `ColorBlind.jar` via `File->Import Settings` or copy `ColorBlind.icls` to `~/Library/Preferences/{IdeaIC12, IntelliJIdea12, appCode20, AndroidStudio}/colors`

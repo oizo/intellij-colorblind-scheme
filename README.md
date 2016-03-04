@@ -7,7 +7,7 @@ So I've spent some time creating my own. It's setup with mostly Java/Android in 
 It's doesn't nescessarily look nice to you, but I like it :-)
 
 # Examples
-### Editor
+### Java
 ![Java](colorblind-screenshot-java.png)
 
 ### LogCat output

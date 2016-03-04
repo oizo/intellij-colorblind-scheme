@@ -11,7 +11,7 @@ It's doesn't nescessarily look nice to you, but I like it :-)
 ![Java](colorblind-screenshot-java.png)
 
 ### LogCat output
-![LogCat](colorblind-screenshot-logcat.png)
+![LogCat](colorblind-screenshot-logcat2.png)
 
 ### Groovy
 ![Groovy](colorblind-screenshot-groovy.png)

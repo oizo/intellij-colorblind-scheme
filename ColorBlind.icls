@@ -70,7 +70,7 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ffc8c8" />
+        <option name="BACKGROUND" value="3800" />
       </value>
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
@@ -306,8 +306,7 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="ff" />
+        <option name="BACKGROUND" value="7000" />
       </value>
     </option>
     <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -438,6 +437,11 @@
       <value>
         <option name="FOREGROUND" value="56ff00" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="NOT_TOP_FRAME_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3800" />
       </value>
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">

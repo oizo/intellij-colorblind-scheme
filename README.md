@@ -10,6 +10,9 @@ It's doesn't nescessarily look nice to you, but I like it :-)
 ### Java
 ![Java](colorblind-screenshot-java.png)
 
+### Kotlin
+![Kotlin](colorblind-screenshot-kotlin.png)
+
 ### LogCat output
 ![LogCat](colorblind-screenshot-logcat2.png)
 

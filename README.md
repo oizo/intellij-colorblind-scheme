@@ -29,4 +29,4 @@ It's doesn't nescessarily look nice to you, but I like it :-)
 ![Console](colorblind-screenshot-console.png)
 
 # Installation
-Either import `ColorBlind.jar` via `File->Import Settings` or copy `ColorBlind.icls` to `~/Library/Preferences/{IdeaIC12, IntelliJIdea12, appCode20, AndroidStudio}/colors`
+Copy `ColorBlind.icls` to `~/Library/Preferences/{IdeaIC12, IntelliJIdea12, appCode20, AndroidStudio}/colors`

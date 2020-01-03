@@ -29,4 +29,4 @@ It's doesn't nescessarily look nice to you, but I like it :-)
 ![Console](colorblind-screenshot-console.png)
 
 # Installation
-Copy `ColorBlind.icls` to `~/Library/Preferences/{IdeaIC12, IntelliJIdea12, appCode20, AndroidStudio}/colors`
+Go to Settings/Preferences -> Editor -> Color Scheme -> Gear Icon -> Import Scheme -> Intellij IDEA color scheme (.icls) and then select `ColorBlind.icls`.

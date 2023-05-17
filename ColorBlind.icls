@@ -53,6 +53,7 @@
     <option name="SELECTION_FOREGROUND" value="1321" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="" />
     <option name="TEARLINE_COLOR" value="3c3f41" />
+    <option name="VISUAL_INDENT_GUIDE" value="" />
     <option name="WHITESPACES" value="151515" />
   </colors>
   <attributes>
@@ -320,6 +321,11 @@
       </value>
     </option>
     <option name="DEFAULT_TAG" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="FOREGROUND" value="f7faff" />
+      </value>
+    </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="ffffb3" />
@@ -672,6 +678,9 @@
         <option name="FOREGROUND" value="ae8abe" />
         <option name="FONT_TYPE" value="3" />
       </value>
+    </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value />
     </option>
     <option name="TEXT">
       <value>
